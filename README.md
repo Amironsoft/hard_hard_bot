@@ -1,2 +1,2 @@
 # hard_hard_bot
-Simple bot for hardware search
+Simple telegram bot for hardware search
